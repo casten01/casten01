@@ -50,7 +50,7 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/leonardo-yzquierdo-97899983/" target="_blank">
+  <a href="https://www.linkedin.com" target="_blank">
     <code><img width="51" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/linkedIn.png"/></code>
   </a>
   <a href="mailto: gabrielepaulon01@gmail.com" target="_blank">
