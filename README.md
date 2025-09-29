@@ -5,7 +5,7 @@
 
 <h2> <img src="https://emoji.gg/assets/emoji/7279-vibecat.gif" width="24"/> 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
 
-<li> 💻 𝖨'𝗆 𝖥𝗋𝗈𝗇𝗍 𝖤𝗇𝖽 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 and programmer </li>
+<li> 💻 𝖨'𝗆 trying  </li>
 <li> 🧠 𝖨'𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 studying Computer Science in Milan</li>
 <li> 😍 Rap + Beer + 𝖢𝗈𝖽𝗂𝗇𝗀 </li>
 
@@ -19,6 +19,8 @@
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 <code><img width="43" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+
 
 <br/>
 <br/>
